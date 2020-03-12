@@ -13,6 +13,7 @@
 Various blog posts around from around the internet.
 
 - [A Quick Security Checklist for Remote Workers (or Anyone, Really)](https://doist.com/blog/security-checklist-remote-workers/)
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
 - [Trello - How to Embrace Remote Work (ebook)](https://info.trello.com/embrace-remote-work-ultimate-guide)
 - [Zapier - The Ultimate Guide to Remote Work (ebook)](https://zapier.com/learn/remote-work/)
 
