@@ -16,6 +16,7 @@ Various blog posts around from around the internet.
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
 - [Trello - How to Embrace Remote Work (ebook)](https://info.trello.com/embrace-remote-work-ultimate-guide)
 - [Zapier - The Ultimate Guide to Remote Work (ebook)](https://zapier.com/learn/remote-work/)
+- [3 Dev Leaders open up about remote software development](https://linearb.io/blog/3-dev-leaders-open-up-about-remote-software-development/)
 
 ## Books
 
