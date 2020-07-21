@@ -8,7 +8,14 @@
 - [Books](#another-section)
 - [Tools](#tools)
 
-## Blog Posts
+## Websites and Blog Posts
+
+### Websites
+Blogs and websites about remote work
+
+- [Distributed.blog](https://distributed.blog/news/)
+
+### Blog Posts
 
 Various blog posts around from around the internet.
 
